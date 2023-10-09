@@ -19,6 +19,9 @@ h2{
     color:white;
     font-size: 30px;
 }
+#text::after{
+  content: '\20AC';
+}
 .bn632-hover {
     width: 160px;
     font-size: 16px;
